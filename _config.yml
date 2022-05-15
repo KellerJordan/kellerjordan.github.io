@@ -1,11 +1,11 @@
 # Site settings
-title: Andrej Karpathy blog
+title: Keller Jordan blog
 email: 
-description: "Musings of a Computer Scientist."
+description: "Interesting resuls of simple machine learning experiments."
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+url: "http://kellerjordan.github.io"
+twitter_username: kellerjordan0
+github_username:  KellerJordan
 
 # Build settings
 markdown: kramdown
