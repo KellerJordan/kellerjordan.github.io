@@ -1,4 +1,17 @@
 baseURL: http://kellerjordan.github.io
 languageCode: en-us
-title: KJJ Blog
+title: Keller Jordan blog
 theme: "PaperMod"
+params:
+    showReadingTime: true
+    socialIcons:
+        - name: "github"
+          url: "https://github.com/kellerjordan"
+        - name: "twitter"
+          url: "https://twitter.com/kellerjordan0"
+menu:
+    main:
+        - name: About
+          url: about
+          weight: 5
+
