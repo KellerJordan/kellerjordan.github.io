@@ -1,9 +1,8 @@
 ---
-title: "Value-Resistant Subsets"
+title: "Value-resistant subsets"
 date: 2023-05-10T13:46:24-07:00
 draft: false
 mathjax: true
-author: Keller Jordan
 ---
 
 In this post I'll show how to construct subsets of data which resist being valued (in the sense of the *data valuation* research program).
@@ -26,7 +25,7 @@ Or positive, because it's helpful when used alongside $B\\,$? There seems to be 
 
 If you are familiar with ROC curves, please enjoy the following.
 
-![test](/images/strange_subsets.png)
+<img width=70% style="display:block; margin-left:auto; margin-right:auto;" src="/images/strange_subsets.png">
 
 ### Method
 
