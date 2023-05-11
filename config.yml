@@ -3,7 +3,6 @@ languageCode: en-us
 title: Keller Jordan blog
 theme: "PaperMod"
 params:
-    showReadingTime: true
     socialIcons:
         - name: "github"
           url: "https://github.com/kellerjordan"
@@ -14,4 +13,8 @@ menu:
         - name: About
           url: about
           weight: 5
+markup:
+    goldmark:
+      renderer:
+        unsafe: true
 
