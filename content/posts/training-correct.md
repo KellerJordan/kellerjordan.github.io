@@ -1,5 +1,5 @@
 ---
-title: "Training on only correctly predicted examples can still surpass the original model"
+title: "Training on only correctly predicted examples can surpass the original model"
 date: 2023-05-11T10:35:00-07:00
 draft: false
 summary: In which a simple model will do the job, but SGD learns a more complex and accurate one anyway.

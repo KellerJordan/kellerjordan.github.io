@@ -20,8 +20,8 @@ We will construct two subsets of the training data, $A$ and $B$, which yield the
 Subset $B$ is both *beneficial* when added to $A$, while also being *worse than nothing* when used on its own.
 
 This result is problematic for the research program of *data valuation* -- which traditionally "is posed as a problem of equitably splitting the validation performance of a learning algorithm among the training data" (e.g. [1, 2]).
-What value should we assign to subset $A$? Negative, because it's worse than nothing on its own?
-Or positive, because it's helpful when used alongside $B\\,$? There seems to be no clear answer.
+What value should we assign to subset $B$? Negative, because it's worse than nothing on its own?
+Or positive, because it's helpful when used alongside $A$? There seems to be no clear answer.
 
 If you are familiar with ROC curves, please enjoy the following.
 
