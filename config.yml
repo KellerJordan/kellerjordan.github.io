@@ -7,7 +7,15 @@ params:
         title: Hello
         content: >
             <img style="padding-bottom:10px" src=/images/desert3.jpg>
+            <div style="position: relative">
+            <span style="position: absolute; bottom: 0; left: 0">
             This blog is a place for some results that I'm currently thinking about.
+            </span>
+            <span>
+            <img height=28px style="float: right" src=/images/ie.gif>
+            <img height=38px style="float: right; margin-right: 36px" src=/images/internet.gif>
+            </span>
+            </div>
 
     socialIcons:
         - name: "github"
