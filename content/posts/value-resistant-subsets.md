@@ -1,5 +1,5 @@
 ---
-title: "Value-resistant subsets"
+title: "Valuation-resistant subsets"
 date: 2023-05-10T13:46:24-07:00
 draft: false
 mathjax: true

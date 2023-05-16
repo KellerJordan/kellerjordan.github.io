@@ -69,5 +69,3 @@ These results are somewhat surprising to me.
 It's possible that there's a simple explanation, but I don't know it.
 I'd be curious to hear any ideas; feel free to email/dm.
 
-
-
