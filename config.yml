@@ -8,11 +8,11 @@ params:
         content: >
             <img style="padding-bottom:10px" src=/images/desert3.jpg>
             <div style="display: grid; grid-template-columns: auto 80px; min-height: 40px">
-            <div style="margin-top: 10px; margin-right: 10px">
+            <div style="margin-right: 10px; display: flex; align-items: end">
             This blog is a place for some results that I'm currently thinking about.
             </div>
-            <div style="position: relative">
-            <img style="height: 40px; position: absolute; bottom: 0" src=/images/internet.gif>
+            <div style="display: flex; align-items: center">
+            <img style="height: 40px;" src=/images/internet.gif>
             </div>
             </div>
 
