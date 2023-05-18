@@ -1,6 +1,6 @@
 ---
 title: "Regularities in ROC curve behavior"
-date: 2023-05-15T12:13:36-07:00
+date: 2023-05-17T12:13:36-07:00
 draft: false
 mathjax: true
 ---
