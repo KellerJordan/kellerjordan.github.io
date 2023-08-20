@@ -7,7 +7,7 @@ params:
         title: Hello
         content: >
             <img style="padding-bottom:10px" src=/images/desert3.jpg>
-            This blog is a place for some results that I'm currently thinking about.
+            Welcome to my research blog.
 
     socialIcons:
         - name: "github"
