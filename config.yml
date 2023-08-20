@@ -7,14 +7,7 @@ params:
         title: Hello
         content: >
             <img style="padding-bottom:10px" src=/images/desert3.jpg>
-            <div style="display: grid; grid-template-columns: auto 80px; min-height: 40px">
-            <div style="margin-right: 10px; display: flex; align-items: end">
             This blog is a place for some results that I'm currently thinking about.
-            </div>
-            <div style="display: flex; align-items: center">
-            <img style="height: 40px;" src=/images/internet.gif>
-            </div>
-            </div>
 
     socialIcons:
         - name: "github"

@@ -5,8 +5,6 @@
 
 ## Keller Jordan
 
-I'm an AI engineer/researcher at Hive, where I've led the development of several models which are now used by many social media platforms.
-
 [Twitter](https://twitter.com/kellerjordan0) / [Email](mailto:keller@kellerjordan.com)
 
 ### Papers
