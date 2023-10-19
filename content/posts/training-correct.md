@@ -6,6 +6,8 @@ summary: In which a simple model will do the job, but SGD learns a more complex 
 mathjax: true
 ---
 
+*Update/note (10/19/23): this effect disappears when we keep examples which the simple model gets confidently correct, not just barely correct.*
+
 Consider the following experiment.
 1. Train for 2 epochs on CIFAR-10 cat/dog data, without augmentations.
 2. Run the resulting model on the training set.
